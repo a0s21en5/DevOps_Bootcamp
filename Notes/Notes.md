@@ -15,3 +15,4 @@ Information
 4. find ip address :- for Example ping google.com
 5. which programming language this website is using for Example site:wap.nokia.com, site:wap.nokia.com .php, site:wap.nokia.com .py in kali search whatweb google.com
 6. Open ports and services :- normal scanning {nmap ip}, aggressive scanning {nmap ip -sV}, To detailed information about target {nmap ip | nmap -sC ip}
+7. Server Information :- iis | apache | tomcat | ngnix {whatweb any.com}
