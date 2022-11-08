@@ -3,4 +3,4 @@
 Basic Terminilogies
 
 1. Injection Point
-2. Where vulnerability can be exist
+   Where vulnerability can be exist
