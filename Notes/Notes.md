@@ -11,3 +11,5 @@ Information
 
 1. Site :- for Example apple.com, google.com, facebook.com
 2. Subdomains :- virustotal.com
+3. You have to rank subdomains by unpopularity less travelled road
+4. find ip address :- for Example ping google.com
