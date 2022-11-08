@@ -2,5 +2,5 @@
 
 Basic Terminilogies
 
-1. Injection Point
+- Injection Point
 Where vulnerability can be exist
