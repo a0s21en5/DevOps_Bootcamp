@@ -6,4 +6,8 @@ Basic Terminilogies
 2. Vulnerability :- is a flaw or weakness of system
 3. Payload :- is a script or code that used to identify vulnerability
 4. Exploitation :- taking advantage of that vulnerability to gain system access
-5. 
+
+Information
+
+1. Site :- for Example apple.com, google.com, facebook.com
+2. Subdomains :- virustotal.com
