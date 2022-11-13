@@ -1,5 +1,7 @@
 # Information Gathering  Basic Terminologies
 
+Information Gathering means gathering different kinds of information about the target. It is basically, the first step or the beginning stage of Ethical Hacking, where the penetration testers or hackers (both black hat or white hat) tries to gather all the information about the target, in order to use it for Hacking.
+
 Basic Terminilogies
 
 1. Injection Point :- Where vulnerability can be exist
