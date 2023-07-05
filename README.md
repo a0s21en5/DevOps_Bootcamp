@@ -1,86 +1,8 @@
 # DevOps-Bootcamp
 
 # Day 1 : Complete Git and GitHub
-- Introduction
-- What is Git and Github?
-- Why are we using Git and Github?
-- Downloading Git
-- Structure of the Tutorial
-- Some basic Linux commands
-- Initializing a Git Repository
-- Making the first change
-- Staging the first change
-- Commiting the first change
-- Adding data to files
-- Removing changes from stage
-- Viewing the overall history of the project
-- Making few more commits
-- Removing a commit from the history of a project
-- Stashing changes
-- Popping Stash
-- Clearing Stash
-- Starting Github
-- Creating a new repository on Github
-- Connecting Remote Repository to Local Repository
-- Pushing local changes to remote repository
-- What are branches?
-- Use of branches
-- Making a new branch and switching to it (Learn Git Branching)
-- Merging branch to main (Learn Git Branching)
-- Pushing new changes to master branch
-- Working with Existing Projects
-- Why Fork and How to Fork?
-- Cloning the forked project to local
-- What is Upstream and adding it to local
-- What is a Pull Request?
-- Never commit on main branch & creating our first pull request
-- Removing a commit from the pull request by force pushing to it
-- Merging a Pull Request
-- Making forked project even with main project
-- Instructions on how to try doing these on your own
-- Squashing commits
-- Using the Rebase command
-- Using the hard flag to reset
-- Merge conflicts and how to resolve them? 
 
-# Day  2: Computer Networking - OSI Model Deep Dive with Real Life Examples
+> What is Git and Github? 
+>* Git is a distributed version control system that allows multiple people to collaborate on a project. It tracks changes to files and folders over time, allowing users to work on different versions simultaneously and merge their modifications seamlessly.
 
-- Introduction
-- How it all started?
-- Client-Server Architecture 
-- Protocols 
-- How Data is Transferred? IP Address 
-- Port Numbers 
-- Submarine Cables Map (Optical Fibre Cables)
-- LAN, MAN, WAN
-- MODEM, ROUTER
-- Topologies (BUS, RING, STAR, TREE, MESH)
-- Structure of the Network
-- OSI Model (7 Layers)
-- TCP/IP Model (5 Layers)
-- Client Server Architecture
-- Peer to Peer Architecture
-- Networking Devices (Download PDF)
-- Protocols
-- Sockets
-- Ports
-- HTTP
-- HTTP(GET, POST, PUT, DELETE)
-- Error/Status Codes
-- Cookies
-- How Email Works?
-- DNS (Domain Name System)
-- TCP/IP Model (Transport Layer)
-- Checksum
-- Timers
-- UDP (User Datagram Protocol)
-- TCP (Transmission Control Protocol)
-- 3-Way handshake
-- TCP (Network Layer)
-- Control Plane
-- IP (Internet Protocol)
-- Packets
-- IPV4 vs IPV6
-- Middle Boxes
-- (NAT) Network Address Translation
-- TCP (Data Link Layer)
+>* GitHub, on the other hand, is a web-based platform built around Git. It provides hosting services for Git repositories and adds additional features like issue tracking, pull requests, and project management tools. GitHub enables developers to share their code, contribute to open-source projects, and collaborate with others easily.
