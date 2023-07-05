@@ -10,3 +10,21 @@
 
 # Why are we using Git and Github?
 > Git and GitHub are used for version control, enabling collaboration, backup, and recovery of code, as well as facilitating open-source contributions and project management in software development.
+
+## Basic Linux Commands
+
+1. `ls`: Lists files and directories in the current location.
+2. `cd`: Changes the current directory.
+3. `pwd`: Prints the current working directory.
+4. `mkdir`: Creates a new directory.
+5. `rm`: Removes files and directories.
+6. `cp`: Copies files and directories.
+7. `mv`: Moves or renames files and directories.
+8. `cat`: Concatenates and displays file content.
+9. `grep`: Searches for a specific pattern in files.
+10. `chmod`: Changes the permissions of a file or directory.
+11. `sudo`: Executes a command with superuser privileges.
+12. `apt-get`: Manages software packages on Debian-based systems.
+13. `yum`: Manages software packages on Red Hat-based systems.
+14. `ssh`: Connects to a remote server using the Secure Shell protocol.
+15. `tar`: Archives or extracts files from a tarball.
