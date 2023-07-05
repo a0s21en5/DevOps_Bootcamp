@@ -43,5 +43,44 @@
 - Using the hard flag to reset
 - Merge conflicts and how to resolve them? 
 
-# Day  2: 
-* Computer Networking - OSI Model Deep Dive with Real Life Examples
+# Day  2: Computer Networking - OSI Model Deep Dive with Real Life Examples
+
+- Introduction
+- How it all started?
+- Client-Server Architecture 
+- Protocols 
+- How Data is Transferred? IP Address 
+- Port Numbers 
+- Submarine Cables Map (Optical Fibre Cables)
+- LAN, MAN, WAN
+- MODEM, ROUTER
+- Topologies (BUS, RING, STAR, TREE, MESH)
+- Structure of the Network
+- OSI Model (7 Layers)
+- TCP/IP Model (5 Layers)
+- Client Server Architecture
+- Peer to Peer Architecture
+- Networking Devices (Download PDF)
+- Protocols
+- Sockets
+- Ports
+- HTTP
+- HTTP(GET, POST, PUT, DELETE)
+- Error/Status Codes
+- Cookies
+- How Email Works?
+- DNS (Domain Name System)
+- TCP/IP Model (Transport Layer)
+- Checksum
+- Timers
+- UDP (User Datagram Protocol)
+- TCP (Transmission Control Protocol)
+- 3-Way handshake
+- TCP (Network Layer)
+- Control Plane
+- IP (Internet Protocol)
+- Packets
+- IPV4 vs IPV6
+- Middle Boxes
+- (NAT) Network Address Translation
+- TCP (Data Link Layer)
