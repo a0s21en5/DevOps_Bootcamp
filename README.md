@@ -49,5 +49,41 @@ we use Git and GitHub because they offer a robust and efficient way to manage an
 - `man`: Displays the manual pages for a command.
    - Example: `man ls` (displays the manual for the "ls" command)
 
+# Git Cheat Sheet
 
-# 
+## Basic Commands
+
+- git init: Initializes a new Git repository.
+- git clone <repository>: Clones a remote repository to your local machine.
+- git add <file>: Adds a file to the staging area.
+- git commit -m "Commit message": Commits the changes in the staging area with a descriptive message.
+- git status: Displays the current status of the repository.
+- git log: Shows the commit history.
+- git push: Pushes local changes to a remote repository.
+- git pull: Fetches and merges changes from a remote repository to the current branch.
+
+## Branching and Merging
+
+- git branch: Lists all branches in the repository.
+- git branch <branch-name>: Creates a new branch.
+- git checkout <branch-name>: Switches to the specified branch.
+- git merge <branch-name>: Merges changes from the specified branch into the current branch.
+- git rebase <branch-name>: Applies changes from the specified branch on top of the current branch.
+
+## Remote Repositories
+
+- git remote add <remote-name> <remote-url>: Adds a new remote repository.
+- git remote -v: Lists all remote repositories.
+- git pull <remote-name> <branch-name>: Fetches and merges changes from a remote repository and branch.
+- git push <remote-name> <branch-name>: Pushes changes to a remote repository and branch.
+
+## Undoing Changes
+
+- git reset <file>: Unstages a file.
+- git checkout <file>: Discards changes in a file.
+- git revert <commit>: Reverts a commit.
+
+## Additional Resources
+
+- [Git Documentation](https://git-scm.com/doc)
+- [Pro Git Book](https://git-scm.com/book)
